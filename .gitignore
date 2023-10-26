@@ -1,0 +1,5 @@
+.*
+!.gitignore
+
+/.fseventsd
+boot_out.txt
